@@ -1,4 +1,4 @@
-# Proposed Mitigations for Agentic AI Risks — v0.2 | Mayo 2026
+# Proposed Mitigations for Agentic AI Risks — v0.2 | May 2026
 
 *Practical complement to the framework.* Focus on technical, architectural and governance mitigations to make agentic systems safer and more governable.
 
@@ -27,12 +27,12 @@
 
 ## Lifecycle & Continuous Compliance
 
-Dada la naturaleza evolutiva de los agentes, la mitigación no es un evento único, sino un ciclo continuo de supervisión:
+Given the evolutionary nature of agents, mitigation is not a one-time event but a continuous oversight cycle:
 
-* **Continuous Agent Auditing**: Implementación de monitoreo en tiempo real para detectar *Agent Drift* (desviación de objetivos) o comportamientos imprevistos fuera del marco ético inicial.
-* **Recertification Protocols**: Ciclos de revisión trimestral de los marcos de mitigación para alinearlos con nuevas capacidades de los modelos y actualizaciones regulatorias (ej. AI Act, resoluciones sectoriales).
-* **Incident Learning Loop**: Registro inmutable de fallas menores o "near-misses" para fortalecer preventivamente los *Kill Switches* y ajustar los umbrales de aprobación humana.
-* **Automated Policy Enforcement**: Uso de agentes supervisores encargados exclusivamente de auditar que el resto de la flota cumpla con las políticas de gobernanza definidas en este framework.
+* **Continuous Agent Auditing**: Implementation of real-time monitoring to detect *Agent Drift* (deviation from objectives) or unforeseen behaviors outside the initial ethical framework.
+* **Recertification Protocols**: Quarterly review cycles of mitigation frameworks to align them with new model capabilities and evolving global regulations (e.g., AI Act, sector-specific resolutions).
+* **Incident Learning Loop**: Immutable logging of minor failures or "near-misses" to preventively strengthen *Kill Switches* and refine human approval thresholds.
+* **Automated Policy Enforcement**: Deployment of supervisor agents dedicated exclusively to auditing the fleet's compliance with the governance policies defined in this framework.
 
 ## Architectural Recommendations
 
@@ -46,4 +46,4 @@ Dada la naturaleza evolutiva de los agentes, la mitigación no es un evento úni
 
 This framework is living and must evolve alongside the technology. Contributions welcome.
 
-*Author:* Sabrina Pastura | v0.2 - Mayo 2026
+*Author:* Sabrina Pastura | v0.2 - May 2026
