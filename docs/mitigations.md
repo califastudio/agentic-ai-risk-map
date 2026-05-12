@@ -44,6 +44,8 @@ Given the evolutionary nature of agents, mitigation is not a one-time event but 
 
 ---
 
-This framework is living and must evolve alongside the technology. Contributions welcome.
+## Status
+
+Working document. Open for contributions and interdisciplinary discussion.
 
 
