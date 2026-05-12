@@ -23,7 +23,14 @@
 | *Financial & Autonomous Transactions* | - Dual/multi-signature for high amounts<br>- Per-agent limits<br>- Whitelist of destinations<br>- Agentic anti-fraud monitoring | Governance + Legal     | Medium |
 | *Multi-Agent Coordination*          | - Supervisor orchestrator<br>- Validated inter-agent protocols<br>- Detection of emergent behaviors | Architecture           | High |
 | *Agent Supply Chain Risk*           | - Version pinning of tools/plugins<br>- Sandbox per external tool<br>- Periodic dependency auditing | Technical              | Medium |
-| *Identity & Authentication*         | - Unique Agent IDs<br>- Human vs agent verification<br>- Role-segregated credentials | Technical + Legal      | High |
+| *Identity & Authentication*  ## Lifecycle & Continuous Compliance
+
+Dada la naturaleza evolutiva de los agentes, la mitigación no es un evento único, sino un ciclo continuo de supervisión:
+
+* **Continuous Agent Auditing**: Implementación de monitoreo en tiempo real para detectar *Agent Drift* (desviación de objetivos) o comportamientos imprevistos fuera del marco ético inicial.
+* **Recertification Protocols**: Ciclos de revisión trimestral de los marcos de mitigación para alinearlos con nuevas capacidades de los modelos y actualizaciones regulatorias (ej. AI Act, resoluciones sectoriales).
+* **Incident Learning Loop**: Registro inmutable de fallas menores o "near-misses" para fortalecer preventivamente los *Kill Switches* y ajustar los umbrales de aprobación humana.
+* **Automated Policy Enforcement**: Uso de agentes supervisores encargados exclusivamente de auditar que el resto de la flota cumpla con las políticas de gobernanza definidas en este framework.       | - Unique Agent IDs<br>- Human vs agent verification<br>- Role-segregated credentials | Technical + Legal      | High |
 
 ## Architectural Recommendations
 
