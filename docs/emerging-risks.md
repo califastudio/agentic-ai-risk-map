@@ -117,5 +117,10 @@ Networks of interacting agents may generate emergent and unpredictable behaviors
 
 > Agentic governance is no longer limited to model behavior. It now requires controlling autonomy, permissions, memory, tool usage, runtime operations and systemic interactions across interconnected agents.
 
+---
+
+## Status
+
+Working document. Open for contributions and interdisciplinary discussion.
 
 
