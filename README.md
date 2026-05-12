@@ -1,9 +1,5 @@
 # agentic-ai-risk-map
 Collaborative framework for mapping risks related to autonomous AI agents operating in the real economy.
-# Agentic AI Risk Map
-
-A collaborative risk mapping initiative for autonomous AI systems operating in the real economy.
-
 ---
 
 ### Overview
