@@ -1,59 +1,80 @@
-# Agentic AI Risk Framework
+# Autonomous Agent Risk Framework
+### A collaborative risk mapping initiative for autonomous AI systems operating in the real economy.
 
-**A collaborative risk mapping initiative for autonomous AI systems operating in the real economy.**
+**Author:** Sabrina Pastura  
+*Lawyer | Strategic Legal Advisor | Startups & Emerging Technologies*
 
 ---
 
 ## Navigation
 * [Executive Overview](#overview)
+* [Framework Assets (Excel Matrix)](#framework-assets--operational-tools)
 * [Core Governance Questions](#core-questions)
-* [The Risk Matrix (Excel Asset)](./Agentic_AI_Risk_Map%203.xlsx)
-* [Technical Mitigations (v0.2)](./docs/mitigations.md)
-* [Standards Gap Analysis](./docs/standards-gap.md)
+* [Detailed Risk Map](#risk-map)
 * [Legal Disclaimer](#disclaimer)
 
 ---
 
 ## Overview
 
-AI is no longer just generating text; it is **acting**. Agents are now obtaining tax IDs, managing crypto wallets, and executing autonomous transactions. Technology has solved the *"How"*; this framework addresses the **"What now?"**
+Artificial intelligence is no longer limited to generating text or assisting human workflows. AI agents are beginning to create companies, obtain tax identification numbers, manage crypto wallets, and execute transactions autonomously. 
+
+Technology has already solved the **“how.”** Law, governance, and institutions are still trying to understand the **“what now?”** This project was created to map, organize, and discuss the emerging risks associated with Agentic AI before these systems scale faster than the frameworks designed to govern them.
 
 ### Purpose
-This is a living GRC (Governance, Risk & Compliance) toolkit designed to identify practical risks and support policy conversations before autonomous systems outpace their regulatory frameworks.
+* **Identify practical risks** beyond theoretical ethics.
+* **Organize open questions** for legal and technical teams.
+* **Support future governance** and policy conversations.
+* **Create a living framework** that evolves alongside the technology.
+
+---
+
+## Framework Assets & Operational Tools
+
+This repository provides a comprehensive GRC toolkit for autonomous environments.
+
+* **Full Risk Matrix (Excel):** [Download Agentic_AI_Risk_Map.xlsx](./Agentic_AI_Risk_Map%203.xlsx)
+* **Standards Gap Analysis:** Critical assessment of how NIST, EU AI Act, and ISO 42001 fail to address autonomous agency.
+* **Emerging Threats:** Deep dive into memory poisoning, agent sprawl, and cascading failures.
 
 ---
 
 ## Core Questions
-These are no longer theoretical. Agentic AI is already interacting with real-world infrastructures:
-* **Liability:** Who is responsible when an agent fails or causes harm?
-* **Financial:** Should autonomous agents have operational spending limits?
-* **Identity:** How do we verify an actor is human vs. autonomous in a transaction?
-* **Governance:** Can we truly audit a multi-step autonomous decision chain?
+These questions are no longer theoretical; they are operational bottlenecks:
+1. Who is legally responsible when an autonomous AI agent causes harm?
+2. How should liability be assigned in AI-executed contracts?
+3. Should agents have financial, transactional, or operational limits?
+4. How can decisions made by autonomous agents be audited and traced?
+5. What happens when multiple AI agents interact without human supervision?
 
 ---
 
-## Risk Domains
-*Detailed scoring and mitigation strategies are available in the [Full Matrix](./Agentic_AI_Risk_Map%203.xlsx).*
+## Risk Map
 
-| Domain | Key Concerns |
-| :--- | :--- |
-| **Legal & Liability** | Undefined status, jurisdictional conflicts, and contract validity. |
-| **Financial** | Unauthorized fund movement, fraud, and high-speed autonomous trading. |
-| **Cybersecurity** | Memory poisoning, agent sprawl, and privilege escalation. |
-| **Systemic** | Cascading failures and unpredictable multi-agent emergent behaviors. |
-| **Identity** | Credential misuse and lack of verification standards. |
+### 1. Legal & Liability Risks
+* **Undefined Responsibility:** No clear framework for harm caused without human direction.
+* **Contractual Gaps:** Validity of obligations created autonomously by agents.
+* **Jurisdictional Conflict:** Agents operating across borders with incompatible laws.
+
+### 2. Financial Risks
+* **Autonomous Fund Movement:** Movement of assets without adequate oversight.
+* **Fraud & Manipulation:** AI-operated accounts exploited or acting outside AML controls.
+* **High-Speed Activity:** Economic actions outpacing human oversight capacity.
+
+### 3. Cybersecurity & Systemic Risks
+* **Memory Poisoning:** Behavioral corruption through malicious contextual inputs.
+* **Cascading Failures:** Propagating errors across interconnected APIs and tools.
+* **Agent Sprawl:** Uncontrolled proliferation of "Shadow AI" agents.
 
 ---
 
-## Status & Contributions
-* **Status:** Active / Early-stage (v0.2).
-* **Collaborate:** This repository is open. Contributions, additional risk scenarios, and interdisciplinary perspectives are welcome.
+## Status
+**Current Version:** v0.2 (Early-stage working framework).  
+This repository is open for contributions, additional risk scenarios, and interdisciplinary perspectives.
 
 ---
 
 ## Disclaimer
-**Strategic guidance only.** This repository represents a technical and legal baseline and does not replace formal legal advice. Mitigation strategies should be validated by certified professionals within their respective jurisdictions.
+**This framework is provided for strategic guidance only.** Use of this material does not constitute an attorney-client relationship. These contents are intended as a high-level reference and do not replace a formal legal opinion tailored to specific operational requirements. Mitigation strategies should be validated by certified legal and technical professionals.
 
-**Author:** Sabrina Pastura  
-*Lawyer | Strategic Legal Advisor | Startups & Emerging Technologies*
-
+---
