@@ -61,15 +61,11 @@ Risk in agentic systems emerges from autonomy, persistence, tool use, memory and
 - Formation and validity of contracts executed by agents
 - Distribution of liability between user, developer and agent
 
-→ [Ver documento detallado](./docs/user-risks-contracting-ai.md)
-
 ### 2. Privacy & Data Protection Risks (GDPR Focus)
 - Processing of personal data by autonomous agents
 - Accountability, auditability and Records of Processing Activities (RoPA)
 - Rights of data subjects in persistent memory systems
 - Data Protection Impact Assessments (DPIA) in agentic environments
-
-→ [Ver documento detallado](./docs/privacy-gdpr.md)
 
 ### 3. Financial Risks
 - Unauthorized fund movement and autonomous transactions
