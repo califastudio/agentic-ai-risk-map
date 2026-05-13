@@ -149,11 +149,11 @@ Continuously evolving through research, discussion, and community contributions.
 
 ## ⚖️ Disclaimer
 
-**This framework and its associated documents (including risk matrices and mitigation guides) are provided for educational and informational purposes only.** The field of Agentic AI is rapidly evolving, and this repository represents a point-in-time assessment of emerging risks. 
+**This framework and its associated assets are provided for strategic guidance and conceptual information purposes only.** This repository represents a technical and legal baseline for managing risks in the evolving Agentic AI landscape.
 
-* **Not Legal Advice:** Use of this material does not create an attorney-client relationship. This content does not constitute formal legal advice or a professional legal opinion on any specific facts or circumstances. 
-* **No Warranties:** This project is provided "as is" without any warranties of any kind. Implementation of these mitigations should be supervised by qualified legal and technical professionals.
-* **Open Contribution:** This is a living document. Users are encouraged to adapt it to their specific jurisdictions and technical architectures.
+* **No Legal Advice:** Use of this material does not constitute an attorney-client relationship. These contents are intended as a high-level reference and do not replace a formal legal opinion tailored to specific operational requirements.
+* **Liability & Implementation:** This project is provided "as is." Mitigation strategies should be validated by certified technical architects and legal counsel within their respective jurisdictions.
+* **Dynamic Nature:** As agentic behaviors are emergent, this framework is a living document subject to continuous revision and community contribution.
 
 ---
 
