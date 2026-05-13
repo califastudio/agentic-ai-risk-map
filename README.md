@@ -5,7 +5,7 @@
 
 ---
 
-## 📍 Navigation
+##  Navigation
 * [Executive Overview](#overview)
 * [The Risk Matrix (Excel Asset)](#framework-assets--operational-tools)
 * [Core Governance Questions](#core-questions)
