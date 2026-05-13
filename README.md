@@ -147,7 +147,7 @@ Continuously evolving through research, discussion, and community contributions.
 
 ---
 
-## ⚖️ Disclaimer
+## Disclaimer
 
 **This framework and its associated assets are provided for strategic guidance and conceptual information purposes only.** This repository represents a technical and legal baseline for managing risks in the evolving Agentic AI landscape.
 
