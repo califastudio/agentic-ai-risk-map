@@ -50,3 +50,7 @@ When a user or company contracts, deploys, or delegates tasks to an autonomous A
 - Evaluate the need for specialized AI insurance.
 
 ---
+
+## Status
+
+Working document. Open for contributions and interdisciplinary discussion.
