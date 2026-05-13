@@ -3,19 +3,19 @@
 A collaborative risk mapping initiative for autonomous AI systems operating in the real economy.
 ---
 
-## 📊 Framework Assets & Risk Matrix
+## Framework Assets & Operational Tools
 
-This repository includes a comprehensive GRC toolkit for Agentic environments. 
+This repository provides a comprehensive GRC toolkit designed for autonomous environments.
 
 * **Format**: Microsoft Excel (.xlsx)
-* **Key Modules**: 
-    * **General Risk Map**: 8 systemic risk categories (Legal, Financial, Market, etc.).
-    * **Emerging Agentic Risks**: Deep dive into technical risks like *Memory Poisoning* and *Agent Sprawl*.
-    * **Standards Gap Analysis**: Critical assessment of how NIST, EU AI Act, and ISO 42001 fall short.
-    * **Governance Open Questions**: A curated list of unresolved legal and ethical dilemmas.
-    * **Mitigation v0.2**: Technical and architectural safeguards.
-* **Download Link**: [Download Agentic AI Risk Map - Full Matrix](./Agentic_AI_Risk_Map_3.xlsx)
-
+* **Core Modules**: 
+    * **Systemic Taxonomy**: Analysis across 8 strategic categories (Legal, Financial, Identity, etc.).
+    * **Emerging Threats**: Technical deep dive into memory poisoning, agent sprawl, and cascading failures.
+    * **Standards Gap Analysis**: Critical assessment of current regulatory limitations (NIST, EU AI Act, ISO 42001).
+    * **Governance Inquiry**: A curated registry of unresolved legal and ethical dilemmas.
+    * **Mitigation Roadmap**: Architectural and procedural safeguards for secure implementation.
+* **Access**: [Download Agentic AI Risk Matrix](./Agentic_AI_Risk_Map_3.xlsx)
+  
 ---
 
 ### Overview
