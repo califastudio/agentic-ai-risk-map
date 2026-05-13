@@ -78,3 +78,6 @@ Controllers and processors must maintain a record of all processing activities. 
 
 ---
 
+## Status
+
+Working document. Open for contributions and interdisciplinary discussion.
