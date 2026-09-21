@@ -43,6 +43,5 @@ See [Mitigations](./mitigations.md) for the full framework-wide mitigation catal
 
 **Maturity of this risk category:** Newly identified — not yet explicitly covered by NIST AI RMF, the EU AI Act, ISO/IEC 42001, or the OWASP Top 10 for Agentic Applications (2026). Related but distinct from action-level auditability, which those frameworks partially address.
 
-**Contributed by:** Community feedback via CERDEAR LA (September 2026).
 
 **Last updated:** September 2026 (framework v0.4).
