@@ -4,8 +4,6 @@
 
 *Data lineage* — the ability to reconstruct where a piece of data came from, how it was transformed, and how it was used — is one of the most overlooked risks in agentic AI environments. Most governance discussions focus on **action traceability** (what did the agent do?) while assuming that **data provenance** (what did the agent know, and where did that knowledge come from?) is a solved problem. It is not.
 
-This gap was raised by the community during a CERDEAR LA discussion (September 2026): *"Even if permissions are correctly configured, if nobody can determine where the data that informed a decision came from, post-hoc auditing does not exist. The risk is not only that the agent makes a mistake — it's that afterward, nobody can reconstruct why."*
-
 ## The Core Problem
 
 Correct permissions and a complete action log tell you **what** an agent did. They do not tell you **whether the data it acted on was trustworthy, current, or even legitimate**. An agent can have perfectly scoped access controls and a fully auditable decision trail, and still make a critical decision based on stale, fabricated, or maliciously injected data — with no way to trace that back afterward.
