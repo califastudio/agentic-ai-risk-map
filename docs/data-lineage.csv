@@ -1,0 +1,5 @@
+﻿Level,What it covers,Current state
+Data lineage clásico,"Origen, transformaciones y destino de los datos (pipelines ETL, BI).",Maduro
+AI / Inference lineage,Dato de entrada + contexto recuperado (RAG) + modelo utilizado + decisión de salida.,Incipiente
+Agent action lineage,"Todo lo anterior, más llamadas a herramientas (tool calls), memoria persistente y acciones ejecutadas por el agente.",Muy incompleto
+Multi-agent provenance,Cadena completa de procedencia cuando múltiples agentes interactúan y se pasan contexto entre sí.,Casi inexistente

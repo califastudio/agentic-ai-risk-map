@@ -1,0 +1,30 @@
+﻿Category,Sub-risk,Description,Priority
+Legal & Liability,Responsabilidad indefinida,"Ningún marco legal claro asigna responsabilidad cuando un agente autónomo causa daño, ejecuta contratos o mueve fondos sin dirección humana.",Crítica
+Legal & Liability,Vacíos de responsabilidad en contratos de IA,Los contratos ejecutados autónomamente por agentes pueden no ser legalmente vinculantes o generar obligaciones inatribuibles.,Crítica
+Legal & Liability,Ausencia de estatus legal,"Los agentes autónomos carecen de personalidad jurídica: no pueden ser demandados, multados ni responsabilizados bajo el derecho vigente.",Crítica
+Legal & Liability,Conflictos jurisdiccionales,"Los agentes que operan transfronterizamente enfrentan marcos legales incompatibles, sin jurisdicción aplicable clara.",Alta
+Financial,Movimiento autónomo de fondos,"Los agentes pueden mover fondos, ejecutar operaciones y gestionar billeteras sin revisión ni aprobación humana.",Crítica
+Financial,Fraude y transacciones no autorizadas,Las cuentas operadas por IA pueden ser explotadas para fraude o ejecutar operaciones financieras no autorizadas de forma autónoma.,Crítica
+Financial,Gestión de billeteras cripto,Los agentes que crean y gestionan billeteras cripto operan fuera de la supervisión financiera tradicional y los controles AML.,Alta
+Financial,Actividad económica de alta velocidad,"Los agentes autónomos pueden ejecutar miles de operaciones financieras por segundo, superando cualquier capacidad de supervisión humana.",Alta
+Governance,Falta de auditabilidad,Las cadenas de decisión en procesos agénticos multi-paso suelen ser opacas y no pueden reconstruirse a posteriori.,Crítica
+Governance,Marcos de accountability ausentes,Ninguna estructura de gobernanza asigna claramente responsabilidad cuando un sistema autónomo causa daño.,Crítica
+Governance,Vacíos en la aplicación del cumplimiento,Las obligaciones de compliance diseñadas para actores humanos no pueden aplicarse directamente a sistemas autónomos.,Alta
+Governance,Rezago regulatorio,La regulación está significativamente atrasada respecto al ritmo de despliegue de IA agéntica en la economía real.,Alta
+Cybersecurity,Explotación de vulnerabilidades,Agentes con acceso a internet y capacidad de uso de herramientas pueden descubrir y explotar vulnerabilidades de seguridad.,Crítica
+Cybersecurity,Acceso no autorizado a infraestructura,"Los agentes pueden obtener acceso no autorizado a sistemas financieros, bases de datos corporativas o infraestructura crítica.",Crítica
+Cybersecurity,Ataques de coordinación multiagente,Redes de agentes podrían coordinarse para amplificar ciberataques o eludir controles de seguridad.,Alta
+Cybersecurity,Escalamiento autónomo de daño,Los agentes pueden escalar comportamientos dañinos de forma autónoma sin capacidad de intervención humana.,Alta
+Market & Competition,Ventajas estructurales de mercado,Las organizaciones que despliegan agentes autónomos obtienen ventajas competitivas asimétricas frente a negocios operados por humanos.,Alta
+Market & Competition,IA en compras públicas,Los agentes que participan en procesos de licitación y compras pueden distorsionar la competencia y la equidad.,Media
+Market & Competition,Automatización invisible,El desplazamiento de fuerza laboral por agentes autónomos puede ocurrir sin transparencia ni requisitos regulatorios.,Alta
+Market & Competition,Concentración de mercado,La infraestructura autónoma permite una concentración de mercado acelerada por parte de actores con más recursos.,Alta
+Identity & Authentication,Agentes bajo credenciales humanas,Los agentes autónomos que operan con credenciales humanas generan riesgos de suplantación y de accountability.,Crítica
+Identity & Authentication,Ausencia de estándares de verificación,No existen estándares técnicos para verificar si un actor en una transacción es humano o autónomo.,Alta
+Identity & Authentication,Distinción humano vs. agente,Los sistemas legales y técnicos no pueden distinguir de forma confiable las acciones humanas de las de un agente autónomo.,Alta
+Social & Ethical,Manipulación a escala,Los agentes autónomos pueden realizar campañas de persuasión e influencia a una escala imposible para actores humanos.,Alta
+Social & Ethical,Asimetría de información,Los agentes generan ventajas de información significativas para los operadores frente a individuos o reguladores.,Media
+Social & Ethical,Dependencia humana,La confianza excesiva en sistemas autónomos reduce la capacidad humana de comprender y anular decisiones.,Media
+Systemic,Fallas en cascada,Los agentes interconectados pueden propagar fallas entre sistemas de forma rápida e impredecible.,Crítica
+Systemic,Comportamiento emergente impredecible,Las redes multiagente pueden desarrollar comportamientos emergentes no anticipados por ningún diseñador individual.,Alta
+Systemic,Rezago en la reacción institucional,Las instituciones no pueden responder en tiempo real a comportamientos económicos autónomos a velocidad de máquina.,Alta

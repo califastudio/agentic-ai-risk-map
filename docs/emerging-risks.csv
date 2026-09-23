@@ -1,0 +1,28 @@
+﻿Category,Sub-risk,Description,Priority
+1. Agent Sprawl,Agentes activos desconocidos,"Proliferación descontrolada de agentes, herramientas, flujos de trabajo y servidores MCP sin visibilidad de gobernanza.",Alta
+1. Agent Sprawl,Sistemas de IA en la sombra (shadow AI),"Agentes desplegados fuera de la supervisión organizacional oficial, invisibles para los equipos de compliance y seguridad.",Alta
+1. Agent Sprawl,Permisos sin rastreo,Agentes que acumulan permisos y derechos de acceso sin seguimiento ni revisión centralizada.,Crítica
+2. Blast Radius & Cascading Failures,Fallas operacionales multi-sistema,"Una única decisión incorrecta de un agente se propaga a través de sistemas conectados, APIs, herramientas y otros agentes.",Crítica
+2. Blast Radius & Cascading Failures,Escalamiento de cadenas de acción,Propagación autónoma de errores a través de flujos de trabajo interconectados sin intervención humana.,Crítica
+3. Runtime Governance,Sin observabilidad en tiempo real,La gobernanza tradicional de IA se enfoca en la etapa previa al despliegue; los sistemas agénticos requieren monitoreo continuo en tiempo de ejecución.,Crítica
+3. Runtime Governance,Ausencia de mecanismos de parada (kill switch),Los sistemas carecen de mecanismos confiables para detener en tiempo real la operación de agentes autónomos.,Crítica
+3. Runtime Governance,Ausencia de puntos de aprobación,Las acciones de alto impacto proceden sin puntos de control obligatorios de supervisión humana.,Alta
+4. Least Agency & Privilege,Escalada de privilegios,"Agentes que adquieren permisos más allá de lo que la tarea requiere, habilitando acciones no autorizadas.",Crítica
+4. Least Agency & Privilege,Acceso excesivo a herramientas,Agentes con acceso a más herramientas y sistemas de los necesarios para su función definida.,Alta
+5. Memory Poisoning,Corrupción conductual de largo plazo,Sistemas de memoria persistente manipulados mediante entradas contextuales maliciosas o falsas.,Crítica
+5. Memory Poisoning,Persistencia de inyección de prompts,Instrucciones inyectadas que se almacenan en la memoria del agente y se re-ejecutan en sesiones futuras.,Crítica
+5. Memory Poisoning,Retención de memoria falsa,Agentes que retienen y actúan sobre contexto fabricado o manipulado a lo largo del tiempo.,Alta
+6. Agent Supply Chain Risk,Servicios externos comprometidos,"Los ecosistemas agénticos que dependen de servidores MCP, plugins y APIs externas introducen riesgo de terceros.",Alta
+6. Agent Supply Chain Risk,Ataques a la cadena de herramientas,Actores maliciosos que comprometen herramientas en la cadena de suministro del agente para manipular su comportamiento.,Alta
+7. Responsibility Gaps,Accountability distribuida,"La toma de decisiones agéntica distribuye influencia entre modelos, desarrolladores, usuarios y herramientas externas, sin una parte responsable claramente identificable.",Crítica
+8. Auditability & Traceability,Sin registro de acciones,Sistemas agénticos que operan sin historiales de decisión reconstruibles ni trazabilidad de llamadas a herramientas.,Crítica
+8. Auditability & Traceability,Vacíos de explicabilidad,Decisiones tomadas a través de cadenas de razonamiento multi-paso que no pueden explicarse a posteriori.,Alta
+8. Auditability & Traceability,Ausencia de linaje de datos (data lineage),"Aunque los permisos y el registro de acciones estén bien implementados, si no puede reconstruirse el origen, la vigencia o la confiabilidad del dato que alimentó una decisión, la auditoría posterior queda sin fundamento real: el riesgo no es solo que el agente se equivoque, sino no poder reconstruir por qué.",Crítica
+9. Multi-Agent Coordination Risk,Autonomía recursiva,Redes de agentes que interactúan y generan comportamientos emergentes e impredecibles no previstos por los diseñadores.,Crítica
+9. Multi-Agent Coordination Risk,Comportamiento inseguro emergente,La coordinación entre agentes produce resultados que ningún agente individual fue programado para crear.,Crítica
+10. Agent Goal Hijack,Manipulación de objetivos vía inyección de contenido,"Contenido malicioso incrustado en documentos, correos o páginas web que el agente procesa puede redirigir su objetivo original sin que el usuario lo note.",Crítica
+10. Agent Goal Hijack,Persistencia del objetivo corrompido entre pasos,Un objetivo manipulado en un paso temprano de la cadena de razonamiento puede propagarse y persistir a través de todos los pasos subsiguientes sin ser detectado.,Alta
+11. Unexpected Code Execution,Ejecución de código no verificado,Agentes con capacidad de generar y ejecutar código pueden correr instrucciones maliciosas o no intencionadas sin sandboxing adecuado.,Crítica
+11. Unexpected Code Execution,Escape de entornos de ejecución,Código generado por el agente puede explotar vulnerabilidades para escapar del entorno aislado (sandbox) hacia el sistema anfitrión.,Alta
+12. Human-Agent Trust Exploitation,Confianza excesiva en output que suena seguro,"Las personas tienden a confiar en respuestas de agentes que suenan seguras y coherentes sin verificarlas, incluso cuando son incorrectas o maliciosas.",Alta
+12. Human-Agent Trust Exploitation,Automatización de la aprobación humana,"Los puntos de control de ""humano en el circuito"" se vuelven rituales vacíos cuando los operadores aprueban de forma automática y repetitiva sin revisar realmente.",Alta

@@ -1,0 +1,8 @@
+﻿Module,Description,Sheet
+General Risk Map,"8 categorías de riesgos sistémicos: legal, financiero, gobernanza, ciberseguridad, mercado, identidad, social y sistémico.",General Risk Map
+Emerging Risk Categories,"12 categorías de riesgo técnico específicas de entornos agénticos: sprawl, blast radius, gobernanza en tiempo de ejecución, envenenamiento de memoria, secuestro de objetivos, ejecución de código inesperada, explotación de confianza humano-agente, entre otras.",Emerging Risks
+Standards Gap Analysis,"Cómo NIST, EU AI Act, ISO 42001, los Principios de la OCDE y el nuevo OWASP Top 10 Agentic no logran cubrir a los agentes autónomos de forma integral — la brecha del ""humano en el circuito"".",Standards Gap
+Open Questions,Preguntas centrales de gobernanza que permanecen sin resolver en todos los marcos normativos vigentes.,Open Questions
+Mitigations v0.4,"Complemento práctico: mitigaciones técnicas, arquitectónicas y de gobernanza para cada categoría de riesgo.",Mitigations
+Privacy & Data Protection,"Riesgos específicos de GDPR derivados de la operación de agentes autónomos: base legal difusa, memoria persistente, derechos del titular, decisiones automatizadas, RoPA y auditabilidad.",Privacy & Data Protection
+User Risks Contracting AI,Riesgos que asume el usuario final al contratar o delegar tareas a un agente autónomo.,User Risks

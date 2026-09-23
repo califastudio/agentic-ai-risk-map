@@ -1,0 +1,7 @@
+﻿Sub-risk,Description,Priority
+Responsabilidad por las acciones del agente,Los usuarios pueden enfrentar responsabilidad civil y penal por acciones realizadas por el agente autónomo en su nombre. Código Civil y equivalentes.,Crítica
+Validez contractual,Riesgo de nulidad o impugnación de contratos celebrados por agentes sin intervención humana directa. Derecho contractual + regulación de firma electrónica.,Alta
+Riesgo de términos del proveedor,Cláusulas abusivas en los Términos de Servicio del proveedor que trasladan la mayoría de los riesgos y responsabilidades al usuario final.,Alta
+Exposición financiera,"El agente genera deudas, pérdidas o compromisos financieros a nombre del usuario sin supervisión adecuada. Regulación financiera + derecho del consumidor.",Crítica
+Vacío de cobertura de seguros,"Las pólizas de seguro tradicionales (responsabilidad civil, cibernética, profesional) no cubren daños causados por agentes de IA autónomos.",Alta
+Sanciones regulatorias,"Los incumplimientos regulatorios (protección de datos, AML, competencia, derecho del consumidor, etc.) cometidos por el agente recaen sobre el usuario. GDPR + regulaciones sectoriales.",Alta

@@ -1,0 +1,7 @@
+﻿Sub-risk,Description,Priority
+Base legal difusa para el tratamiento,"Los agentes realizan acciones o decisiones sin una base legal clara (consentimiento, interés legítimo, contrato, etc.). Art. 6 GDPR.",Crítica
+Minimización de datos y memoria persistente,Los agentes acumulan datos personales innecesarios debido a sistemas de memoria persistente. Art. 5(1)(c) GDPR.,Alta
+Derechos del titular de los datos (derecho al olvido),"Dificultad para ejercer derechos (acceso, rectificación, supresión) en sistemas con memoria persistente y multiagente. Arts. 12–22 GDPR.",Alta
+Decisiones automatizadas,Los agentes toman decisiones automatizadas con efectos legales o significativos sobre las personas sin supervisión humana adecuada. Art. 22 GDPR.,Alta
+Registro de actividades de tratamiento (RoPA),Dificultad para mantener actualizado el Registro de Actividades de Tratamiento debido al comportamiento dinámico de los agentes autónomos. Art. 30 GDPR.,Crítica
+Auditabilidad y accountability,Dificultad para demostrar cumplimiento y auditar decisiones tomadas por agentes autónomos. Art. 5(2) GDPR.,Alta

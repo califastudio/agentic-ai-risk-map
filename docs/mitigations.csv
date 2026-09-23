@@ -1,0 +1,13 @@
+﻿Risk category,Proposed mitigations,Type,Difficulty
+Blast Radius & Cascading Failures,Aislamiento reforzado (contenedores aislados) · Circuit breakers y limitación de tasa (rate limiting) · Chaos engineering con agentes · Separación clara de entornos (dev/staging/prod),Arquitectura,Alta
+Runtime Governance,Puntos de aprobación configurables según criticidad · Kill Switch / Pausa global · Observabilidad completa (trazado de llamadas a herramientas) · Alertas de anomalías en tiempo real,Gobernanza + Técnico,Alta
+Least Agency & Privilege Escalation,Mínimo privilegio dinámico (just-in-time) · Credenciales efímeras (tokens de corta duración) · Jerarquía de agente y supervisor · Revisión automatizada de permisos,Técnico,Media
+Memory Poisoning,Certificación de memoria + checksums criptográficos · Depuración periódica de memoria · Separación de memoria de corto y largo plazo · Versionado y rollback sencillo,Técnico,Alta
+Auditability & Traceability,Registro inmutable + firmas criptográficas · Registros estandarizados de decisión del agente · Panel central de auditoría · Etiquetado de procedencia (data provenance tagging) en cada fuente consultada · Versionado y hash de datasets/fuentes de conocimiento,Técnico + Legal,Alta
+Financial & Autonomous Transactions,Control dual / multi-firma para montos elevados · Límites de monto y velocidad por agente · Lista blanca de destinos y billeteras aprobadas · Monitoreo antifraude específico para agentes,Gobernanza + Legal,Media
+Multi-Agent Coordination,Orquestador supervisor con visibilidad global · Protocolos validados de comunicación entre agentes · Detección de comportamientos emergentes vía métricas de sistema,Arquitectura,Alta
+Agent Supply Chain Risk,Fijación de versiones y verificación de herramientas/plugins · Sandbox por cada herramienta externa · Auditoría periódica de dependencias,Técnico,Media
+Identity & Authentication,IDs de agente únicos y trazables · Mecanismos de verificación humano vs. agente · Credenciales segregadas por rol,Técnico + Legal,Alta
+Agent Goal Hijack,Separación estricta entre instrucciones del sistema y contenido de terceros · Filtrado y sanitización de contenido externo antes de procesarlo · Verificación periódica de que el objetivo activo coincide con el objetivo original,Técnico,Alta
+Unexpected Code Execution,Sandboxing obligatorio con privilegios mínimos · Listas de aprobación de librerías y comandos permitidos · Revisión estática de código generado antes de ejecutar,Técnico,Alta
+Human-Agent Trust Exploitation,"Fricción deliberada en aprobaciones de alto impacto (evitar el ""click automático"") · Indicadores visuales de confianza/incertidumbre en las respuestas del agente · Capacitación de operadores en sesgo de automatización",Gobernanza,Media

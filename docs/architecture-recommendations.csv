@@ -1,0 +1,5 @@
+﻿Area,Recommendation
+Orquestación,"LangGraph, CrewAI o frameworks con control de flujo y supervisión robustos."
+Observabilidad,LangSmith + OpenTelemetry + paneles personalizados.
+Identidad,IDs de agente internos + uso potencial de Identificadores Descentralizados (DID).
+Evaluación continua,Red teaming automatizado + benchmarks de seguridad de agentes.
